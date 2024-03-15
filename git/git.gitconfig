@@ -1,0 +1,9 @@
+[user]
+	email = tom.fjeldheim@gmail.com
+	name = Tom-Håkon Fjeldheim
+[safe]
+	directory = /home/tomhaakon/docker-ps/psdata/modules/myfirstmodule
+	directory = /home/tomhaakon/docker-prestashop-8.1.2/psdata-8.1.2/modules/ko_fancysearch
+	directory = /home/tomhaakon/symfony-docker
+[init]
+	defaultBranch = main
